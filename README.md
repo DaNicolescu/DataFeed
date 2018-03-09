@@ -1,5 +1,4 @@
-DataFeed
-	
+DataFeed  
 	In main se creeaza instanta clasei FeedReder, i se seteaza un nou feed,
 apoi se apeleaza metoda run.
 
